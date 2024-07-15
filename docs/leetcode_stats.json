@@ -1,0 +1,57 @@
+{
+    "data": {
+        "allQuestionsCount": [
+            {
+                "difficulty": "All",
+                "count": 3219
+            },
+            {
+                "difficulty": "Easy",
+                "count": 811
+            },
+            {
+                "difficulty": "Medium",
+                "count": 1690
+            },
+            {
+                "difficulty": "Hard",
+                "count": 718
+            }
+        ],
+        "userContestRanking": {
+            "attendedContestsCount": 3,
+            "rating": 1564.127,
+            "globalRanking": 154629,
+            "totalParticipants": 563365,
+            "topPercentage": 28.01,
+            "badge": null
+        },
+        "matchedUser": {
+            "username": "mahathibodela7",
+            "submitStats": {
+                "acSubmissionNum": [
+                    {
+                        "difficulty": "All",
+                        "count": 439,
+                        "submissions": 848
+                    },
+                    {
+                        "difficulty": "Easy",
+                        "count": 77,
+                        "submissions": 158
+                    },
+                    {
+                        "difficulty": "Medium",
+                        "count": 300,
+                        "submissions": 559
+                    },
+                    {
+                        "difficulty": "Hard",
+                        "count": 62,
+                        "submissions": 131
+                    }
+                ]
+            }
+        }
+    }
+}
