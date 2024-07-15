@@ -54,7 +54,6 @@ def get_leetcode_stats(username):
 def load_json_file(filename,data_set):
     with open(filename, 'r') as json_file:
         stats = json.load(json_file)['data']['matchedUser']['submitStats']['acSubmissionNum']
-    print(filename)
     for st in stats:
         if st['difficulty'] in data_set:
             data_set[st['difficulty']]['solved'] = st['count']
