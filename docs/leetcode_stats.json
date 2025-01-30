@@ -3,11 +3,11 @@
         "allQuestionsCount": [
             {
                 "difficulty": "All",
-                "count": 3435
+                "count": 3436
             },
             {
                 "difficulty": "Easy",
-                "count": 853
+                "count": 854
             },
             {
                 "difficulty": "Medium",
@@ -21,9 +21,9 @@
         "userContestRanking": {
             "attendedContestsCount": 5,
             "rating": 1669.029970579267,
-            "globalRanking": 97563,
-            "totalParticipants": 650495,
-            "topPercentage": 15.37,
+            "globalRanking": 97909,
+            "totalParticipants": 653032,
+            "topPercentage": 15.36,
             "badge": null
         },
         "matchedUser": {
