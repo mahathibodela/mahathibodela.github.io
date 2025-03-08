@@ -21,8 +21,8 @@
         "userContestRanking": {
             "attendedContestsCount": 5,
             "rating": 1669.03,
-            "globalRanking": 101103,
-            "totalParticipants": 672245,
+            "globalRanking": 101099,
+            "totalParticipants": 672234,
             "topPercentage": 15.4,
             "badge": null
         },
@@ -32,23 +32,23 @@
                 "acSubmissionNum": [
                     {
                         "difficulty": "All",
-                        "count": 465,
-                        "submissions": 921
+                        "count": 466,
+                        "submissions": 937
                     },
                     {
                         "difficulty": "Easy",
                         "count": 80,
-                        "submissions": 164
+                        "submissions": 169
                     },
                     {
                         "difficulty": "Medium",
-                        "count": 315,
-                        "submissions": 607
+                        "count": 316,
+                        "submissions": 616
                     },
                     {
                         "difficulty": "Hard",
                         "count": 70,
-                        "submissions": 150
+                        "submissions": 152
                     }
                 ]
             }
