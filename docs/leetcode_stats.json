@@ -3,7 +3,7 @@
         "allQuestionsCount": [
             {
                 "difficulty": "All",
-                "count": 3571
+                "count": 3575
             },
             {
                 "difficulty": "Easy",
@@ -11,11 +11,11 @@
             },
             {
                 "difficulty": "Medium",
-                "count": 1852
+                "count": 1854
             },
             {
                 "difficulty": "Hard",
-                "count": 839
+                "count": 841
             }
         ],
         "userContestRanking": {
