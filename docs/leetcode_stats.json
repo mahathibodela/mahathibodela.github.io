@@ -3,19 +3,19 @@
         "allQuestionsCount": [
             {
                 "difficulty": "All",
-                "count": 3739
+                "count": 3743
             },
             {
                 "difficulty": "Easy",
-                "count": 911
+                "count": 912
             },
             {
                 "difficulty": "Medium",
-                "count": 1946
+                "count": 1948
             },
             {
                 "difficulty": "Hard",
-                "count": 882
+                "count": 883
             }
         ],
         "userContestRanking": {
