@@ -3,7 +3,7 @@
         "allQuestionsCount": [
             {
                 "difficulty": "All",
-                "count": 3967
+                "count": 3972
             },
             {
                 "difficulty": "Easy",
@@ -11,11 +11,11 @@
             },
             {
                 "difficulty": "Medium",
-                "count": 2071
+                "count": 2074
             },
             {
                 "difficulty": "Hard",
-                "count": 945
+                "count": 947
             }
         ],
         "userContestRanking": {
@@ -32,8 +32,8 @@
                 "acSubmissionNum": [
                     {
                         "difficulty": "All",
-                        "count": 555,
-                        "submissions": 1135
+                        "count": 556,
+                        "submissions": 1137
                     },
                     {
                         "difficulty": "Easy",
@@ -47,8 +47,8 @@
                     },
                     {
                         "difficulty": "Hard",
-                        "count": 88,
-                        "submissions": 193
+                        "count": 89,
+                        "submissions": 195
                     }
                 ]
             }
