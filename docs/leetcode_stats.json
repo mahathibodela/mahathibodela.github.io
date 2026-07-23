@@ -7,11 +7,11 @@
             },
             {
                 "difficulty": "Easy",
-                "count": 956
+                "count": 955
             },
             {
                 "difficulty": "Medium",
-                "count": 2088
+                "count": 2089
             },
             {
                 "difficulty": "Hard",
@@ -37,13 +37,13 @@
                     },
                     {
                         "difficulty": "Easy",
-                        "count": 98,
-                        "submissions": 201
+                        "count": 97,
+                        "submissions": 198
                     },
                     {
                         "difficulty": "Medium",
-                        "count": 369,
-                        "submissions": 741
+                        "count": 370,
+                        "submissions": 744
                     },
                     {
                         "difficulty": "Hard",
